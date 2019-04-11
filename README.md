@@ -3,4 +3,5 @@
 ### Simple Paterns:
 
 - [useState with init function](https://codesandbox.io/s/92jlp74wzp)
+- [setState with function](https://codesandbox.io/s/n9rjy046m0)
 
