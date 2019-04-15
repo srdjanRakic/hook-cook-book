@@ -7,3 +7,6 @@
 - [reusable custom toggle hook](https://codesandbox.io/s/1q0ov7ron3)
 - [computed values with useMemo](https://codesandbox.io/s/8869j060l0)
 
+### Advanced Paterns:
+
+- [resource fetching](https://codesandbox.io/s/pmomm9nnqm)
