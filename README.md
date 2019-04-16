@@ -10,3 +10,4 @@
 ### Advanced Paterns:
 
 - [resource fetching](https://codesandbox.io/s/pmomm9nnqm)
+- [easier controlled components](https://codesandbox.io/s/pmomm9nnqm)
