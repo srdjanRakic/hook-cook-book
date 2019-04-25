@@ -13,3 +13,4 @@
 - [resource fetching](https://codesandbox.io/s/pmomm9nnqm)
 - [easier controlled components](https://codesandbox.io/s/985royxnro)
 - [throttling with useCallback and useRef](https://codesandbox.io/s/y0wm7qy4y1)
+- [custom hook for objects using lodash](https://codesandbox.io/s/k021p54ljo)
