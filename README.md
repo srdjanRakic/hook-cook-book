@@ -16,3 +16,4 @@
 - [throttling with useCallback and useRef](https://codesandbox.io/s/y0wm7qy4y1)
 - [custom hook for objects using lodash](https://codesandbox.io/s/k021p54ljo)
 - [useReducer with action creators](https://codesandbox.io/s/ovp4zn2yyy)
+- [useReducer with actions](https://codesandbox.io/s/wypn7j389l)
