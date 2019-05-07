@@ -7,6 +7,7 @@
 - [reusable custom toggle hook](https://codesandbox.io/s/1q0ov7ron3)
 - [computed values with useMemo](https://codesandbox.io/s/8869j060l0)
 - [declerative setTimeout](https://codesandbox.io/s/kmqnnmw9p5)
+- [declerative setInterval](https://codesandbox.io/s/zx2y065qll)
 
 
 ### Advanced Paterns:
