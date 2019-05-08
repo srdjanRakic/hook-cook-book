@@ -8,7 +8,6 @@
 - [computed values with useMemo](https://codesandbox.io/s/8869j060l0)
 - [declerative setTimeout](https://codesandbox.io/s/kmqnnmw9p5)
 
-
 ### Advanced Paterns:
 
 - [resource fetching](https://codesandbox.io/s/pmomm9nnqm)
