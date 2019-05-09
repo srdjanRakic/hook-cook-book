@@ -17,6 +17,7 @@
 - [custom hook for objects using lodash](https://codesandbox.io/s/k021p54ljo)
 - [useReducer with action creators](https://codesandbox.io/s/ovp4zn2yyy)
 - [useReducer with actions](https://codesandbox.io/s/wypn7j389l)
+- [useReducer data fetching](https://codesandbox.io/s/0mymloxl1v)
 
 ### Complex UI problems:
 - [virtual scroll](https://codesandbox.io/s/wwvy53j997)
