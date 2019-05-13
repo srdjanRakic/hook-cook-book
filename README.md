@@ -8,6 +8,7 @@
 - [computed values with useMemo](https://codesandbox.io/s/8869j060l0)
 - [declerative setTimeout](https://codesandbox.io/s/kmqnnmw9p5)
 - [declerative setInterval](https://codesandbox.io/s/zx2y065qll)
+- [progressive image](https://codesandbox.io/s/mo3zn8n00p)
 
 ### Advanced Paterns:
 
