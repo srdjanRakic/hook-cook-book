@@ -9,6 +9,7 @@
 - [declerative setTimeout](https://codesandbox.io/s/kmqnnmw9p5)
 - [declerative setInterval](https://codesandbox.io/s/zx2y065qll)
 - [progressive image](https://codesandbox.io/s/mo3zn8n00p)
+- [formik dynamic input](https://codesandbox.io/s/formik-dynamic-input-sbyfq)
 
 ### Advanced Paterns:
 
